@@ -1,0 +1,11 @@
+C:\Users\leo\Documents\Info\c-sharp\TP8\bin\Debug\TP8.exe.config
+C:\Users\leo\Documents\Info\c-sharp\TP8\bin\Debug\TP8.exe
+C:\Users\leo\Documents\Info\c-sharp\TP8\bin\Debug\TP8.pdb
+C:\Users\leo\Documents\Info\c-sharp\TP8\obj\Debug\TP8.csprojAssemblyReference.cache
+C:\Users\leo\Documents\Info\c-sharp\TP8\obj\Debug\TP8.Form1.resources
+C:\Users\leo\Documents\Info\c-sharp\TP8\obj\Debug\TP8.Form2.resources
+C:\Users\leo\Documents\Info\c-sharp\TP8\obj\Debug\TP8.Properties.Resources.resources
+C:\Users\leo\Documents\Info\c-sharp\TP8\obj\Debug\TP8.csproj.GenerateResource.cache
+C:\Users\leo\Documents\Info\c-sharp\TP8\obj\Debug\TP8.csproj.CoreCompileInputs.cache
+C:\Users\leo\Documents\Info\c-sharp\TP8\obj\Debug\TP8.exe
+C:\Users\leo\Documents\Info\c-sharp\TP8\obj\Debug\TP8.pdb

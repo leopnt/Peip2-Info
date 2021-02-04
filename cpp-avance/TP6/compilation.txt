@@ -1,0 +1,1 @@
+g++ src/CVecteur.cpp src/CPoint2D.cpp src/CPoint3D.cpp src/CCouleur.cpp src/CPoint3D_couleur.cpp src/main.cpp -I hdr/ -o main.exe

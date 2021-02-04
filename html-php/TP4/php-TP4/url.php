@@ -1,0 +1,1 @@
+<a href="receptionURL.php?nom=toto&amp;prenom=otot">TEST</a>

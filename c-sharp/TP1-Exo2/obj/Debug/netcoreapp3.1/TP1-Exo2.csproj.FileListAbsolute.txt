@@ -1,0 +1,13 @@
+C:\Users\leo\Documents\Info\c-sharp\TP1-Exo2\bin\Debug\netcoreapp3.1\TP1-Exo2.exe
+C:\Users\leo\Documents\Info\c-sharp\TP1-Exo2\bin\Debug\netcoreapp3.1\TP1-Exo2.deps.json
+C:\Users\leo\Documents\Info\c-sharp\TP1-Exo2\bin\Debug\netcoreapp3.1\TP1-Exo2.runtimeconfig.json
+C:\Users\leo\Documents\Info\c-sharp\TP1-Exo2\bin\Debug\netcoreapp3.1\TP1-Exo2.runtimeconfig.dev.json
+C:\Users\leo\Documents\Info\c-sharp\TP1-Exo2\bin\Debug\netcoreapp3.1\TP1-Exo2.dll
+C:\Users\leo\Documents\Info\c-sharp\TP1-Exo2\bin\Debug\netcoreapp3.1\TP1-Exo2.pdb
+C:\Users\leo\Documents\Info\c-sharp\TP1-Exo2\obj\Debug\netcoreapp3.1\TP1-Exo2.AssemblyInfoInputs.cache
+C:\Users\leo\Documents\Info\c-sharp\TP1-Exo2\obj\Debug\netcoreapp3.1\TP1-Exo2.AssemblyInfo.cs
+C:\Users\leo\Documents\Info\c-sharp\TP1-Exo2\obj\Debug\netcoreapp3.1\TP1-Exo2.csproj.CoreCompileInputs.cache
+C:\Users\leo\Documents\Info\c-sharp\TP1-Exo2\obj\Debug\netcoreapp3.1\TP1-Exo2.dll
+C:\Users\leo\Documents\Info\c-sharp\TP1-Exo2\obj\Debug\netcoreapp3.1\TP1-Exo2.pdb
+C:\Users\leo\Documents\Info\c-sharp\TP1-Exo2\obj\Debug\netcoreapp3.1\TP1-Exo2.genruntimeconfig.cache
+C:\Users\leo\Documents\Info\c-sharp\TP1-Exo2\obj\Debug\netcoreapp3.1\TP1-Exo2.csprojAssemblyReference.cache

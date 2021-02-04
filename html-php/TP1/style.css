@@ -1,0 +1,9 @@
+body {
+    border: 2px solid black;
+    padding: 2em;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
